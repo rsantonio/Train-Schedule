@@ -1,0 +1,10 @@
+body {
+	background: url("../images/train_image.jpg");
+	background-size: cover;
+
+}
+.jumbotron-fluid {
+	background: url("../images/train_image.jpg");
+	background-size: cover;
+
+}
